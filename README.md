@@ -36,8 +36,8 @@ The Hirafic project was created to bridge the gap between clients and artisans b
 - **Oliver Maketso**    [GitHub](https://github.com/OliverMaketso)
 
 ###  Frontend Developers
+- **Paul Levites**  [GitHub](https://github.com/Paulcode2) | [LinkedIn](https://linkedin.com/in/paul-ifeoluwa-levites)
 - **Selasi Agbenyegah Mensah**  [GitHub](https://github.com/Selasi-Mensah)
-- **Paul Levites**  [GitHub](https://github.com/Paulcode2)
 
 ## Technologies Used 🛠️
 
